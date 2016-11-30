@@ -1,0 +1,21 @@
+body {
+	transition: all .5s ease;
+	background-color: #ff70c3;
+}
+
+h1 {
+	font-family: 'Bangers';
+	color: #fff600;
+	font-size: 6rem;
+	text-shadow: -5px 5px 0 #2fc6ce;
+	letter-spacing: 0.2rem;
+
+}
+
+.pressSpace {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	text-align: center;
+}
